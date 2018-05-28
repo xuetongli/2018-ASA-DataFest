@@ -16,4 +16,4 @@ The pdf file contains a short slide summarizing the project shiny app, with link
 
 The doc file contains an outline of our presentation at the DataFest.
 
-The app.r file is the main script for the final prodect. Running this file, with all other csv, png, and gif files provided, can activate a shiny app.
+The app.r file is the main script for the final product. Running this file, with all other csv, png, and gif files provided, can activate a shiny app.
