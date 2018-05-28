@@ -8,7 +8,7 @@ Team members: Junwen Huang, Chunxiao Li, Xuetong Li, Yunxuan Li
 
 # Introduction
 
-The project focused on visualizing job searching and job posting statistics in the United States. As a final product the team made a Shiny app, which provides annual statistics map, dynamic trends, and a Gaussian process model.
+The project focused on visualizing job searching and job posting statistics in the United States. As a final product the team made a Shiny app, which provides annual statistics map, dynamic trends, a Gaussian Process model, and a Spatial Autoregressive model.
 
 # File documentation
 
